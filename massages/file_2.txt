@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 
 msgid "Are you sure you want to change Calibre library location?"
-msgstr ""
+msgstr "காலிபர் லைப்ரரி இருப்பிடத்தை நிச்சயமாக மாற்ற விரும்புகிறீர்களா?"
 
 msgid ""
 msgstr ""
